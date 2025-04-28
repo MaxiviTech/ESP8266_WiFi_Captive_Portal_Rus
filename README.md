@@ -1,16 +1,16 @@
-# ESP8266 WiFi Captive Portal 2.0_Rus
+# ESP8266 WiFi Captive Portal 2.0 Rus
 
 ## Дисклеймер
-This project is for testing and educational purposes. Use it only against your own networks and devices. I don't take any responsibility for what you do with this program.
+Этот проект создан для тестирования возможностей и в образовательных целях. Используйте его только против ваших сетей и устройств. Я не несу отвественности за ваши действия совершенные с помощью этой программы.
 
 ## О проекте 
-WiFi captive portal for the NodeMCU (ESP8266 Module) with DNS spoofing. It asks the user for an email and a password for a fake sign in, in order to "get connected to the internet".
+WiFi Веб-страница авторизации для NodeMCU (ESP8266 Модуля) c DNS спуфингом. Она запрашивает у пользователя электронную почту и пароль для входа на поддельную страницу, для того чтобы "Получить доступ к интернету".
 
 Встроенный светодиод будет мигать 5 раз когда учетные данные опубликованы.
 
-<b>Внимание!</b> Your saved credentials will disappear when you restart/power off the ESP8266.
+<b>Внимание!</b> Ваши сохраненные учетные данные исчезнут когда вы перезапустите/отключите ESP8266.
 
-<b>Заметка:</b> If you want to see the stored credetials go to <a>"**http**://</a>yourcurrentwebsite.com<a>/creds</a>" or "**172.0.0.1**<a>/creds</a>"
+<b>Заметка:</b> Если вы хотите увидеть хранимые учетные данные, перейдите на <a>"**http**://</a>yourcurrentwebsite.com<a>/creds</a>" или "**172.0.0.1**<a>/creds</a>".
 
 # Скриншоты
 
